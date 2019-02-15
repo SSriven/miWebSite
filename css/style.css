@@ -1,0 +1,115 @@
+@font-face {
+  font-family: 'sriven';
+  src:  url('../fonts/sriven.eot?xurrua');
+  src:  url('../fonts/sriven.eot?xurrua#iefix') format('embedded-opentype'),
+    url('../fonts/sriven.ttf?xurrua') format('truetype'),
+    url('../fonts/sriven.woff?xurrua') format('woff'),
+    url('../fonts/sriven.svg?xurrua#sriven') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="srivenIcon-"], [class*=" srivenIcon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'sriven' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.srivenIcon-17:before {
+  content: "\e900";
+}
+.srivenIcon-16:before {
+  content: "\e901";
+}
+.srivenIcon-uniE902:before {
+  content: "\e902";
+}
+.srivenIcon-1:before {
+  content: "\e903";
+}
+.srivenIcon-F:before {
+  content: "\e904";
+}
+.srivenIcon-2:before {
+  content: "\e905";
+}
+.srivenIcon--:before {
+  content: "\e906";
+}
+.srivenIcon-3:before {
+  content: "\e907";
+}
+.srivenIcon-4 .path1:before {
+  content: "\e908";
+  color: rgb(33, 29, 28);
+}
+.srivenIcon-4 .path2:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(33, 29, 28);
+}
+.srivenIcon-4 .path3:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(33, 29, 28);
+}
+.srivenIcon-4 .path4:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(0, 171, 224);
+}
+.srivenIcon-4 .path5:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(0, 171, 224);
+}
+.srivenIcon-4 .path6:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(33, 29, 28);
+}
+.srivenIcon-6:before {
+  content: "\e90e";
+}
+.srivenIcon-5:before {
+  content: "\e90f";
+}
+.srivenIcon-7:before {
+  content: "\e910";
+}
+.srivenIcon-8:before {
+  content: "\e911";
+}
+.srivenIcon-9:before {
+  content: "\e912";
+}
+.srivenIcon-10:before {
+  content: "\e913";
+}
+.srivenIcon-11:before {
+  content: "\e914";
+}
+.srivenIcon-12:before {
+  content: "\e915";
+}
+.srivenIcon-13:before {
+  content: "\e916";
+}
+.srivenIcon-14:before {
+  content: "\e917";
+}
+.srivenIcon-31:before {
+  content: "\e918";
+}
+.srivenIcon-15:before {
+  content: "\e919";
+}
